@@ -1,0 +1,3 @@
+
+BN001, Deposit, Php100000000
+BN001, Withdraw, Php500000

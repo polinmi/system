@@ -1,0 +1,10 @@
+BankNo: BN001
+Name: Carl Nino Sarocam
+Street: kjhgghjgf
+City: jgfghhgfghj
+Email: ugfjghjh
+PhoneN: 09876543212
+Balance: 0.0
+Balance: 9.95E7
+Passcode: 12345
+------
